@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0016-3sum-closest/) | Medium |
 | [0054-spiral-matrix](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0066-plus-one) |
 ## Math
@@ -44,8 +45,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0016-3sum-closest/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
