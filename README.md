@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0054-spiral-matrix](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0066-plus-one) |
 ## Math
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
