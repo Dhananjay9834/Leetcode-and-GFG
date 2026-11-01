@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0066-plus-one) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0054-spiral-matrix) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0043-multiply-strings](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0043-multiply-strings/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
