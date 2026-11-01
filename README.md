@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0043-multiply-strings/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0042-trapping-rain-water/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -75,4 +77,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0029-divide-two-integers/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
