@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0066-plus-one) |
+| [0643-maximum-average-subarray-i](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
