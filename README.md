@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0054-spiral-matrix](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0189-rotate-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0029-divide-two-integers](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0189-rotate-array/) | Medium |
 | [0326-power-of-three](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0326-power-of-three/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0042-trapping-rain-water/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0189-rotate-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
