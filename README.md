@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Recursion
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0061-rotate-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0189-rotate-array/) | Medium |
