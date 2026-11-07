@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0326-power-of-three](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0326-power-of-three/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
