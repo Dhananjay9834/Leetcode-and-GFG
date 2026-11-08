@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0022-generate-parentheses](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0043-multiply-strings/) | Medium |
 ## Sliding Window
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0053-maximum-subarray/) | Medium |
 ## Stack
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
