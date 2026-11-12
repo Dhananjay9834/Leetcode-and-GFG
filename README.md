@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0066-plus-one](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0189-rotate-array/) | Medium |
 | [0326-power-of-three](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0326-power-of-three/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0142-linked-list-cycle-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -201,4 +204,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
