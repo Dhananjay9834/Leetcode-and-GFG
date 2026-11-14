@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1748-sum-of-unique-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Math
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
