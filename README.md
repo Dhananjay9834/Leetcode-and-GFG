@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0643-maximum-average-subarray-i](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1748-sum-of-unique-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0189-rotate-array/) | Medium |
 | [0326-power-of-three](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0326-power-of-three/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0022-generate-parentheses](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0053-maximum-subarray/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -233,5 +236,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
