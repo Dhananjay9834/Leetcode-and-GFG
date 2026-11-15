@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2418-sort-the-people](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2418-sort-the-people/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0053-maximum-subarray/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
