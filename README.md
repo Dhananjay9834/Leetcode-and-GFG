@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0054-spiral-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0018-4sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0018-4sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0217-contains-duplicate/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
