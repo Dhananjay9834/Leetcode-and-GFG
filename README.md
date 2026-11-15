@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2418-sort-the-people](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2418-sort-the-people/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0219-contains-duplicate-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2418-sort-the-people](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2418-sort-the-people/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0022-generate-parentheses](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0043-multiply-strings/) | Medium |
+| [2418-sort-the-people](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2418-sort-the-people/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0018-4sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0018-4sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0217-contains-duplicate/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2418-sort-the-people](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2418-sort-the-people/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
