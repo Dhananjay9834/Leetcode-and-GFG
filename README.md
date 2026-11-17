@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0043-multiply-strings](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0043-multiply-strings/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2418-sort-the-people](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2418-sort-the-people/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0189-rotate-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0053-maximum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0053-maximum-subarray/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
