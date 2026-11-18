@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2418-sort-the-people](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2418-sort-the-people/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
