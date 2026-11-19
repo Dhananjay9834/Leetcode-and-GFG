@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2418-sort-the-people](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2418-sort-the-people/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2418-sort-the-people](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2418-sort-the-people/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Design
 | Problem Name | Difficulty |
