@@ -1,0 +1,27 @@
+import java.util.*;
+
+class Solution {
+    public int maxSelectedElements(int[] nums) {
+
+        Arrays.sort(nums);
+
+        HashMap<Integer, Integer> dp = new HashMap<>();
+
+        int maxLength = 0;
+
+        for(int num : nums) {
+
+            // Option 1: Increase num to num + 1
+            dp.put(num + 1, dp.getOrDefault(num, 0) + 1);
+
+            // Option 2: Keep num unchanged
+            dp.put(num, dp.getOrDefault(num - 1, 0) + 1);
+
+            // Update maximum answer
+            maxLength = Math.max(maxLength,
+                       Math.max(dp.get(num), dp.get(num + 1)));
+        }
+
+        return maxLength;
+    }
+}
