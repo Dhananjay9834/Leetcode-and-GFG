@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2418-sort-the-people](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2418-sort-the-people/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2418-sort-the-people](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2418-sort-the-people/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 <!---LeetCode Topics End-->
