@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3360-stone-removal-game](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3360-stone-removal-game/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0054-spiral-matrix](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/master/0054-spiral-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/Dhananjay9834/Leetcode-and-GFG/tree/main/3360-stone-removal-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
